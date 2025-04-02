@@ -35,7 +35,7 @@
     --tridactyl-hint-active-bg: var(--base04);
     --tridactyl-hint-active-outline: none;
 
-    --tridactyl-hint-bg: var(base04);
+    --tridactyl-hint-bg: var(--base04);
     --tridactyl-hint-outline: none;
 
     /* Hint character tags */
